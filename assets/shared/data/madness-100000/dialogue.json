@@ -1,0 +1,68 @@
+{
+	"dialogue": [
+		{
+			"sound": "bf_dialogue",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Beep"
+		},
+		{
+			"sound": "phono-talk",
+			"speed": 0.05,
+			"portrait": "skid",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "WHO TF ARE YOU?"
+		},
+		{
+			"sound": "bf_dialogue",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Bop skibidi boop"
+		},
+		{
+			"sound": "phono-talk",
+			"speed": 0.05,
+			"portrait": "skid",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "SHUT YO MOUTH"
+		},
+		{
+			"sound": "bf_dialogue",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "..."
+		},
+		{
+			"sound": "phono-talk",
+			"speed": 0.05,
+			"portrait": "skid",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "YOUR MIC LOOKS LIKE A DILDO"
+		},
+		{
+			"sound": "bf_dialogue",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "*middle finger*"
+		},
+		{
+			"sound": "phono-talk",
+			"speed": 0.05,
+			"portrait": "skid",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "OH YEAH?! BRING IT!"
+		}
+	]
+}
